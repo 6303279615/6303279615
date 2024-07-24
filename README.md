@@ -3,8 +3,8 @@
 - 🌱 I’m currently started training at Indian Institute of Embedded System-Bangalore (IIES)
 - 💞️
 - 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: bhushan 
+- ⚡ Fun fact: sensitive pie
 
 <!---
 6303279615/6303279615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
